@@ -23,7 +23,7 @@ import os
 PROMISE = "The stars say your portfolio will rise again"
 SWERVE = "just not the one you liquidated at 3 a.m."
 
-LINE = PROMISE + " \u2014 " + SWERVE + "."
+LINE = PROMISE + " \u2014 " + SWERVE
 
 MAX_CHARS = 160
 MAX_WORDS = 20
